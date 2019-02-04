@@ -24,7 +24,7 @@ public class Triangle
         height = 30;
         width = 40;
         xPosition = 50;
-        yPosition = 15;
+        yPosition = 10;
         color = "green";
         isVisible = false;
     }
